@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929597652191",
+    "project_id": "uas-apkmobile-a122106621",
+    "storage_bucket": "uas-apkmobile-a122106621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929597652191:android:d9a32f8f75db54d55bfd6a",
+        "android_client_info": {
+          "package_name": "com.example.uas_apkmobile_a122106621"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihws1KZwzS-GewBc_JyfSmZS7j9NHk9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
